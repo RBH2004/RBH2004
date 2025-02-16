@@ -19,14 +19,14 @@
 - 💻 **Competitive Programmer** practicing regularly on [Codeforces](https://codeforces.com).  
 - 🌱 **Currently Learning:** Web Development and exploring new technologies.  
 - ⚡ **Languages & Skills:** Python, C++, JavaScript, HTML, CSS  
-- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)
+- 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/rafid-bin-hassan-52a7412a0/) | [Email](hassanrafidbin@gmail.com)
 
 ---
 
 ### 🔥 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RBH2004&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
