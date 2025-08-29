@@ -17,7 +17,7 @@
 
 - 🎓 **Student at BRAC University**  
 - 💻 **Competitive Programmer** practicing regularly on [Codeforces](https://codeforces.com).  
-- 🌱 **Currently Learning:** Ai and machiene learning and exploring new technologies.  
+- 🌱 **Currently Learning:** Ai and machine learning and exploring new technologies.  
 - ⚡ **Languages & Skills:** Python, C++, JavaScript, HTML, CSS  
 - 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/rafid-bin-hassan-52a7412a0/) | [Email](hassanrafidbin@gmail.com)
 
