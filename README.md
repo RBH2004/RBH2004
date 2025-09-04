@@ -1,21 +1,25 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#3b82f6;">MD. Rafid Bin Hassan</span></h1>
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF;">MD. Rafid Bin Hassan</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Student+at+BRAC+University;Competitive+Programmer;AI+%26+Machine+Learning+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=👨‍🎓+Student+at+BRAC+University;💻+Competitive+Programmer;🤖+AI+%26+ML+Enthusiast;🚀+Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 **Student** at **BRAC University**  
-- 💻 **Competitive Programmer** on [Codeforces](https://codeforces.com)  
-- 🌱 Currently learning **AI & Machine Learning**, while exploring new technologies  
+## 👨‍💻 About Me  
+- 🎓 **Student at BRAC University**  
+- 🏆 **Competitive Programmer** practicing on [Codeforces](https://codeforces.com)  
+- 🌱 Exploring **AI, Machine Learning, and new technologies**  
 - ⚡ **Languages & Skills:** Python | C++ | JavaScript | HTML | CSS  
-- 📫 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](#) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](#)  
+- 📫 Reach me on:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)  
+  [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -26,24 +30,31 @@
 
 ---
 
-### 🔥 GitHub Stats
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RBH2004&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBH2004&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RBH2004&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RBH2004&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RBH2004&layout=compact&theme=radical" alt="languages" />
-</p>
-
----
-
-### 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RBH2004&theme=dracula" alt="activity graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RBH2004&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-### ✨ Fun Quote
-> *"Code is like humor. When you have to explain it, it’s bad."* 😄
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RBH2004&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RBH2004&theme=onedark&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## ✨ Fun Fact  
+> *"First, solve the problem. Then, write the code."* 🚀  
